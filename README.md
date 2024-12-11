@@ -1,10 +1,10 @@
 # Frontend Assignment
-## Note The following project will only run in Node v16.4.2 and below
+## Note: The following project will only run in Node v16.4.2 and below
 ## To download Node v16.4.2 [https://nodejs.org/en/blog/release/v16.4.2]
 To run the following project on your local machine, follow the steps:
 1. Open the terminal and type the following commands
 2. ```npm install```
-3. After all the dependencies are installed
+3. After all the dependencies are installed<br />
 ```npm run start```
 This will take 3-4 minutes to compile.
 After compiling the following project will be opened in the [http://localhost:4200/].
