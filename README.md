@@ -1,4 +1,6 @@
 # Frontend Assignment
+## Note The following project will only run in Node v16.4.2 and below
+## To download Node v16.4.2 [https://nodejs.org/en/blog/release/v16.4.2]
 To run the following project on your local machine, follow the steps:
 1. Open the terminal and type the following commands
 2. ```npm install```
